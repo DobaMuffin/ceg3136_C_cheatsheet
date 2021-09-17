@@ -28,7 +28,11 @@
 ### Installing C compiler on Windows 
 Pending
 ### Installing C compiler on Linux
-Pending
+* Using the apt package manager the following commands should be used
+	* sudo apt update
+	* sudo apt install build-essential
+
+* To confirm that gcc has been successfully installed, gcc --version should be called 
 
 ## Hello World Script
 ### Sample Code:
