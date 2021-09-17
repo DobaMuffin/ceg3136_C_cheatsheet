@@ -29,10 +29,10 @@
 Pending
 ### Installing C compiler on Linux
 * Using the apt package manager the following commands should be used
-	* 'sudo apt update'
-	* 'sudo apt install build-essential'
+	* `sudo apt update`
+	* `sudo apt install build-essential`
 
-* To confirm that gcc has been successfully installed, 'gcc --version' should be called 
+* To confirm that gcc has been successfully installed, `gcc --version` should be called 
 
 ## Hello World Script
 ### Sample Code:
